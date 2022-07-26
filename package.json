@@ -1,11 +1,11 @@
 {
   "version": "12.4.3",
-  "name": "react-native-svg",
+  "name": "react-native-svg-fork",
   "description": "SVG library for react-native",
-  "homepage": "https://github.com/react-native-community/react-native-svg",
+  "homepage": "https://github.com/fitz-z/react-native-svg-fork",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-svg"
+    "url": "https://github.com/fitz-z/react-native-svg-fork"
   },
   "license": "MIT",
   "main": "lib/commonjs/index.js",
